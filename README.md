@@ -52,6 +52,13 @@ sudo apt-get install docker-ce=$VERSION_STRING docker-ce-cli=$VERSION_STRING con
 
 ```
 
+```
+git clone https://github.com/envoyproxy/gateway.git
+```
+
+```
+make help
+```
 
 
 https://gateway.envoyproxy.io/v0.5.0/contributions/develop/    
