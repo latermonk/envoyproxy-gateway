@@ -16,7 +16,8 @@ https://gateway.envoyproxy.io/v0.5.0/user/quickstart/
 
 
 # Dev
-https://docs.docker.com/engine/install/ubuntu/    
+https://killercoda.com/playgrounds/scenario/ubuntu    
+ 
 
 ```
 for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg -y ; done
@@ -51,6 +52,10 @@ sudo apt-get install docker-ce=$VERSION_STRING docker-ce-cli=$VERSION_STRING con
 
 ```
 
+
+
+https://gateway.envoyproxy.io/v0.5.0/contributions/develop/    
+https://docs.docker.com/engine/install/ubuntu/     
 
 ---
 
