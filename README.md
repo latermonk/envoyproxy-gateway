@@ -18,6 +18,11 @@ https://gateway.envoyproxy.io/v0.5.0/user/quickstart/
 # Dev
 https://killercoda.com/playgrounds/scenario/ubuntu    
  
+```
+wget https://go.dev/dl/go1.20.6.linux-amd64.tar.gz && rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.6.linux-amd64.tar.gz
+
+```
+
 
 ```
 for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg -y ; done
