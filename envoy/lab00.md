@@ -1,6 +1,12 @@
 # Get started with Envoy Proxy in 5 minutes
 https://tetrate.io/blog/get-started-with-envoy-in-5-minutes/    
 
+## Install dunc-e
+```
+curl -L https://func-e.io/install.sh | bash -s -- -b .
+```
+
+## test
 
 ```
 func-e run -c config.yaml
