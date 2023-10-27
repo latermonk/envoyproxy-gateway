@@ -9,9 +9,12 @@ curl -L https://func-e.io/install.sh | bash -s -- -b .
 ## test
 
 ```
-https://raw.githubusercontent.com/latermonk/envoyproxy-gateway/main/envoy/lab00-config.yaml
+wget https://raw.githubusercontent.com/latermonk/envoyproxy-gateway/main/envoy/lab00-config.yaml
+
 mv  lab00-config.yaml config.yaml
+
 func-e run -c config.yaml
+
 ```
 
 
