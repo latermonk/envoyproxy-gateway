@@ -2,6 +2,11 @@
 https://tetrate.io/blog/get-started-with-envoy-in-5-minutes/    
 
 
+```
+func-e run -c config.yaml
+```
+
+
 *config.yaml*
 ```
 static_resources:
@@ -57,4 +62,16 @@ static_resources:
               socket_address:
                 address: 127.0.0.1
                 port_value: 5000
+```
+
+
+
+# Test
+
+```
+curl localhost:10000/blue
+```
+
+```
+curl localhost:10000/green
 ```
