@@ -1,6 +1,8 @@
 # Get started with Envoy Proxy in 5 minutes
 https://tetrate.io/blog/get-started-with-envoy-in-5-minutes/    
 
+## Lab env
+https://killercoda.com/playgrounds/scenario/ubuntu   
 
 ## run two services
 ```
