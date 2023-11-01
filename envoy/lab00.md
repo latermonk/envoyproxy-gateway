@@ -33,6 +33,15 @@ func-e run -c config.yaml
 
 
 *config.yaml*
+admin interface:
+```
+admin:
+  access_log_path: /tmp/admin_access.log
+  profile_path: /tmp/envoy.prof
+  address:
+    socket_address: { address: 127.0.0.1, port_value: 9901 }
+```
+config.yaml
 ```
 static_resources:
   listeners:
