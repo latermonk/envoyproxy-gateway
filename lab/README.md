@@ -15,3 +15,9 @@ https://gateway.envoyproxy.io/v0.5.0/user/quickstart/
 
 ## lab
 
+
+
+# Reference
+https://cloud.google.com/kubernetes-engine/docs/concepts/gateway-api                 
+https://cloud.google.com/kubernetes-engine/docs/how-to/deploying-gateways             
+
