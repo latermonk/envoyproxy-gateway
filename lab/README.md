@@ -13,7 +13,11 @@ mv /usr/local/bin/helm  /usr/bin/
 
 https://gateway.envoyproxy.io/v0.5.0/user/quickstart/     
 
-## lab
+## deploy pattern
+https://cloud.google.com/static/kubernetes-engine/images/model-single-owner.svg    
+
+
+## lab  
 
 
 
